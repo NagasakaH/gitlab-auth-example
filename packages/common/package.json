@@ -1,0 +1,9 @@
+{
+  "name": "@gitlab-auth-example/common",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "repository": "https://github.com/NagasakaH/gitlab-auth-example/packages/common",
+  "author": "Hiroaki Nagasaka",
+  "license": "apache2",
+  "private": true
+}
